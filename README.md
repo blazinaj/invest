@@ -4,6 +4,8 @@
 
 A modern, responsive investment platform built with React and TypeScript that provides real-time market data, portfolio management, and trading capabilities.
 
+[Live Demo](https://roaring-biscuit-4b232e.netlify.app/)
+
 ## Features
 
 - 📊 Real-time market data and stock tracking
